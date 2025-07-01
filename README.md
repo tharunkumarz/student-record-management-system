@@ -17,3 +17,18 @@ Data is stored persistently in a `.txt` file.
 
 ## 📂 File Structure
 
+StudentRecordSystem/
+│
+├── main.cpp # Main C++ source file
+├── Student.txt # Data file to store student records
+├── README.md # Project description
+└── .gitignore # Optional - ignore build files like .exe
+
+## 🧠 Concepts Used
+
+- Classes and Objects
+- Encapsulation
+- File I/O (ifstream, ofstream)
+- String manipulation
+- Command line UX
+
