@@ -20,9 +20,8 @@ Data is stored persistently in a `.txt` file.
 StudentRecordSystem/
 │
 ├── main.cpp # Main C++ source file
-├── Student.txt # Data file to store student records
 ├── README.md # Project description
-└── .gitignore # Optional - ignore build files like .exe
+
 
 ## 🧠 Concepts Used
 
